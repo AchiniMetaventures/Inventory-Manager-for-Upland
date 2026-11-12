@@ -1,6 +1,6 @@
 # Privacy Policy: Inventory Manager for Upland
 
-Last updated: 11 November 2026
+Last updated: 12 November 2026
 Developer: Achini Metaventures (Charles_FR)
 Support: Discord server https://discord.gg/fVH2jnH9c7 or AchiniMetaventures@gmail.com
 
@@ -29,8 +29,9 @@ All of this is saved locally in your browser with chrome.storage.local. It is no
 
 The extension makes only these requests:
 
-- To https://api.prod.upland.me (Upland): to read your inventory, showrooms, factories and properties, and, when you click the corresponding button, to send a production request to one of your factories. Listings and delistings are made by operating the Upland page you have open, after you confirm a plan in the panel.
-- To https://raw.githubusercontent.com (GitHub, public repository AchiniMetaventures/upland-trove-data): to read one small public file (inventory-manager/info.json) about every 12 hours, which may contain a short news message and a link. No data about you is sent. Like any web request, GitHub can see your IP address according to its own policy. The file contains text only; it is never run as code, and links must use https.
+- To https://api.prod.upland.me (Upland): to read your inventory, showrooms, factories and properties, and, when you click and confirm the corresponding button, to send a production request to one of your factories or to remove waiting items from a factory's production queue. Listings and delistings are made by operating the Upland page you have open, after you confirm a plan in the panel.
+- To https://raw.githubusercontent.com (GitHub, public repository AchiniMetaventures/Inventory-Manager-for-Upland): to read one small public file (info.json) about every 12 hours, which may contain a short news message and a link. No data about you is sent. Like any web request, GitHub can see your IP address according to its own policy. The file contains text only; it is never run as code, and links must use https. You can switch the news message off for good in Settings, General, News message.
+- To https://static.upland.me (Upland): the side panel displays a few public pictures of Upland buildings (showrooms and nurseries), like the game does. No data about you is sent.
 
 The extension does not use analytics, advertising, cookies of its own, or remote code.
 
@@ -42,7 +43,7 @@ The extension does not sell, rent or share your data. The only file that leaves 
 
 - storage and unlimitedStorage: save your settings, catalog and scans locally.
 - sidePanel: show the extension in Chrome's side panel on Upland tabs.
-- tabs and scripting: find your open play.upland.me tabs, enable the panel on them, open or focus the settings page, and re-attach the page script to a tab opened before the extension was installed or updated.
+- scripting: re-attach the extension's own page script to a play.upland.me tab opened before the extension was installed or updated, so you do not have to refresh the game.
 - Access to https://play.upland.me and https://api.prod.upland.me: read the game page and Upland's service as described above.
 
 ## Children
