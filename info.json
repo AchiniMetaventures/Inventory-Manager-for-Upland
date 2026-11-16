@@ -1,12 +1,10 @@
 {
   "message": {
-    "id": "2026-11-10-toolbox-401",
-    "text": "Another extension by Achini Metaventures: Trove Toolbox V4.0.1 is out. It now includes the Edit Mode Helper and the construction progress bar improvement.",
+    "id": "2026-11-16-im-12",
+    "text": "Inventory Manager for Upland 1.2 is out. Improved compatibility with mobile platforms: Orion on iOS and Vivaldi on Samsung.",
     "color": "gold",
-    "scroll": false,
+    "scroll": true,
     "blink": false,
-    "closable": true,
-    "link": "https://chromewebstore.google.com/detail/smart-address-clipboard-f/phncmkafgohmddffojpipndcflfclogm",
-    "linkText": "Chrome Store"
+    "closable": true
   }
 }
