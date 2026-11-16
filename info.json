@@ -1,7 +1,7 @@
 {
   "message": {
-    "id": "2026-11-16-im-12",
-    "text": "Inventory Manager for Upland 1.2 is out. Improved compatibility with mobile platforms: Orion on iOS and Vivaldi on Samsung.",
+    "id": "2026-11-16-im-12b",
+    "text": "Inventory Manager for Upland 1.2 is out. Improved compatibility with mobile platforms: Orion on iOS and Vivaldi on Samsung. Restart Chrome to update the extension.",
     "color": "gold",
     "scroll": true,
     "blink": false,
