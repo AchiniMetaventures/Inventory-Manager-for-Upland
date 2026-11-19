@@ -1,7 +1,7 @@
 {
   "message": {
-    "id": "IM 1.3 9db132",
-    "text": "Inventory Manager for Upland 1.3 is out! New guided Simple setup (automatic) and better compatibility with mobile platforms. Restart Chrome to update the extension.",
+    "id": "IM 1.4",
+    "text": "Inventory Manager for Upland 1.4 is out! New Extras tab: Write text with your assets and Property reorganization (Simple and Custom). Delist mode now works like List mode. Restart Chrome to update the extension.",
     "color": "green",
     "scroll": true,
     "blink": false,
