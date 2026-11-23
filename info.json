@@ -1,7 +1,7 @@
 {
   "message": {
     "id": "Upland slow 2026-11-23",
-    "text": "Upland is unusually slow right now. Listing and bulk listing may fail or take much longer than usual. After a run, check your showroom and list again what is missing. A fix to make listing more reliable in this situation is coming in v1.5.",
+    "text": "\u26a0\ufe0f Upland is unusually slow right now. Listing and bulk listing may fail or take much longer than usual. After a run, check your showroom and list again what is missing. A fix to make listing more reliable in this situation is coming in v1.5.",
     "color": "orange",
     "scroll": true,
     "blink": false,
