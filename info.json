@@ -1,10 +1,12 @@
 {
   "message": {
-    "id": "IM 1.5",
-    "text": "Inventory Manager for Upland 1.5 is available! You can now bulk accept or reject the seed listing requests from other players in your nurseries. Performance is also improved. Restart Chrome to update the extension.",
-    "color": "green",
-    "scroll": true,
-    "blink": false,
-    "closable": true
+    "id": "IM 1.6 contributor",
+    "text": "Contributor features are 𝗙𝗥𝗘𝗘 for now! Write text, Custom reorganization and the new Catalog image. Ask Charles_FR for your code.",
+    "color": "gold",
+    "scroll": false,
+    "blink": true,
+    "closable": true,
+    "link": "https://discord.com/users/384616648105132033",
+    "linkText": "Get your code"
   }
 }
